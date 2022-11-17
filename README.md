@@ -1,3 +1,7 @@
+# How to Run
+
+Download the EXE from the releases (or build if you want). Add the exe as a non steam game then run under Proton 5.0
+
 # How to Build
 
 Install pyinstaller in wine
